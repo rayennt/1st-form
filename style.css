@@ -77,3 +77,22 @@ button{
 .rad{
   margin-left: 22px;
 }
+@media(max-width:766px){
+  
+  button,.nom,.msg,.white,.mail{
+    width: 270px;
+  }
+  .inp{
+    width: 130px;
+  }
+  .tog{
+    flex-direction: row;
+  }
+  .togg{
+    flex-direction: column;
+  }
+}
+}
+.rad{
+  margin-left: 22px;
+}
